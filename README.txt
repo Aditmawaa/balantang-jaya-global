@@ -1,17 +1,19 @@
-BALANTANG JAYA GLOBAL — COMPANY PORTFOLIO WEBSITE
+BALANTANG JAYA GLOBAL — WEBSITE V3
 
-Current data:
-- Company: Balantang Jaya Global
-- Business: Drilling & Construction
-- Project: Drilling 300 Points
-- Owner/Client: Trinusa Resource
-- Period: August–November 2026
-- Status: Ongoing
+Included:
+- Company portfolio website
+- 10 project gallery photos
+- Equipment section with TOTAL EQUIPMENT = 6 DRILL UNITS
+- Six equipment cards: BJG-01 to BJG-06
+- Project: Drilling 300 Points, Trinusa Resource, August–November 2026
+- Responsive desktop/mobile layout
 
-Before publishing:
-1. Replace contact details in index.html.
-2. Replace gallery placeholders with official project photos.
-3. Add actual address, phone, email, equipment, manpower, certifications and legal documents.
-4. Verify all service descriptions against the company's actual scope.
+IMPORTANT:
+The equipment names/specifications and all generated images are mockup/portfolio data based on the requested concept. Verify the actual fleet, model, capacity, and specifications before publishing for a client/tender.
 
-Open index.html directly in a browser or deploy the folder to static hosting/GitHub Pages.
+UPLOAD:
+Upload the CONTENTS of this folder to the ROOT of your GitHub repository:
+index.html
+css/
+js/
+assets/
